@@ -83,7 +83,7 @@ Adjusted models yielded interpretable estimates of the association between diabe
 
 figures/effect_estimates.png
 
-## Sensitivity Analysis
+### Sensitivity Analysis
 
 Sensitivity analyses were conducted to evaluate the stability of results under alternative modeling assumptions.
 
